@@ -40,6 +40,7 @@ const NoChatSelected = () => {
             <div className="px-4 text-center sm-text-lg md-text-x1 text-gray-200 font-semibold flex flex-col items-center gap-2">
                 <p className="text-xl">Welcome 🤞 {authUser.fullname} 🎉</p>
                 <p className="text-xl">Select a chat to start messaging</p>
+                <p className="text-xl">Khaitan ChatZone</p>
                 <TiMessages className='text-3x1 md:text-x1 text-center w-[60px] h-[60px]' />
             </div>
         </div>
